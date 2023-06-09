@@ -1,0 +1,4 @@
+export const ACTION_TYPES = {
+    SET_LAT_LONG: "SET_LAT_LONG",
+    SET_COFFEE_STORE: "SET_COFFEE_STORE",
+}
